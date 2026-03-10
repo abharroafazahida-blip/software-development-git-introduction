@@ -1,0 +1,5 @@
+- Nama lengkap: Abhar Ro'afa Zahida
+- NPM: 2313020231
+- Hobi: Berkebun dan Memelihara ikan
+- Bahasa pemrograman yang ingin dipelajari: Python
+- Target karier di bidang teknologi: Ingin menjadi Software Developer
